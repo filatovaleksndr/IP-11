@@ -1,6 +1,6 @@
 <%-- 
     Document   : index
-    Created on : 5 апр. 2021 г., 19:29:29
+    Created on : 06.04.2021, 21:42:54
     Author     : Alex
 --%>
 
@@ -13,5 +13,7 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <a href="lab1.jsp">Laba 1</a>
+        <a href="lab2.jsp">Laba 2</a>
     </body>
 </html>
